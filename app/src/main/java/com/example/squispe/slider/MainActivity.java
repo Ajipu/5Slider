@@ -156,8 +156,8 @@ public class MainActivity extends AppCompatActivity
 
         } else if (id == R.id.nav_manage) {
 
-        String ppp="";
-
+            String ppp="";
+            String ppp2="";
 
         } else if (id == R.id.nav_share) {
 

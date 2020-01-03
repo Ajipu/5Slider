@@ -158,6 +158,7 @@ public class MainActivity extends AppCompatActivity
 
         String ppp="";
 
+
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {
